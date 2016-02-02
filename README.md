@@ -1,3 +1,3 @@
 # getting-and-cleaning-data
 
-This repository contains a tidy data frame and an R script to produce the data frame.  
+The R script run_anlysis.R in this repository produces the data frame within tidy_avg.csv. 
