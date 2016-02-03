@@ -9,3 +9,8 @@ The data for this assignment can be obtained on the following website along with
 ## Usage
 
 To run the run_analysis.R script, the data first needs to be downloaded and unzipped.  The 'dplyr' package is also required to run the script.  By the end of the script a data frame which matches tidy_avg.csv will be produced.  
+
+
+## Variable Names
+
+For more information on the names of the variables, please refer to the codebook included in this repository.  
